@@ -1,0 +1,12 @@
+Weather Summary Report
+=========================
+Cities Processed: 5
+Highest Temperature: 38.8°C - Delhi
+Lowest Temperature: 16.3°C - Tokyo
+Average Temperature: 23.6°C
+
+Clear Weather Cities:
+  None
+
+Rain in Cities:
+- Tokyo
